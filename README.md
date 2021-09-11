@@ -2,16 +2,24 @@
 
 [Live Demo](https://hvanotten.github.io/restaurant-sample-page/)
 
-📝 Description
+📝 Description:
+
 Restaurant page project from The Odin Project Curriculum.
 
-💡 Features
-Responsive design
-Navigation Tabs
-Accessible form
+💡 Features:
+
+- Responsive design
+
+- Navigation Tabs
+
+- Accessible form
 
 🛠️ Built with:
-HTML
-CSS
-JavaScript
-Webpack
+
+- HTML
+
+- CSS
+
+- JavaScript
+
+- Webpack
