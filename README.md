@@ -1,6 +1,6 @@
 # Restaurant Sample Page
 
-[Live Demo](https://hvanotten.github.io/restaurant-sample-page/)
+[Live Demo](https://restaurant-sampler.netlify.app/)
 
 📝 Description:
  sample design for a client page. 
