@@ -5,7 +5,7 @@ function createContact() {
     contact.setAttribute("data-tab-content", "");
 
     const phoneNumber = document.createElement('p')
-    phoneNumber.textContent = 'Phone: 📞  123 456 789'
+    phoneNumber.textContent = 'Phone: 📞  541 788 5682'
 
     const address = document.createElement('p');
     address.textContent = 'Current Location: 🏠 1661 NE 4th St, Bend, OR 97701';

@@ -3,8 +3,8 @@
 [Live Demo](https://hvanotten.github.io/restaurant-sample-page/)
 
 📝 Description:
+ sample design for a client page. 
 
-Restaurant page project from The Odin Project Curriculum.
 
 💡 Features:
 

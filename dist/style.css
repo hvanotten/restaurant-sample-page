@@ -78,12 +78,12 @@ button {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 80%;
+  width: 100%;
   padding: 2rem;
   background-color: var(--color6);
   border-bottom: 1px solid var(--color6);
   border-radius: 10px;
-  opacity: 90%;
+  opacity: 95%;
 }
 
 .restaurant-name {
@@ -114,14 +114,14 @@ button {
 .main {
   display: flex;
   justify-content: center;
-  width: 80%;
+  width: 100%;
   padding: 3rem;
   margin: 6rem 0;
   font-size: 2rem;
   background-color: var(--color6);
   border: 1px solid var(--border-color);
   border-radius: 10px;
-  opacity: 90%;
+  opacity: 95%;
 }
 
 /* Home page */
@@ -132,8 +132,12 @@ button {
   align-items: center;
   justify-content: center;
   height: 600px;
-  width: 618px;
+  width: 620px;
   animation: fadeIn 1.5s;
+}
+
+.home h2{
+  font-family: var(--font-family);
 }
 
 .home p {
@@ -148,7 +152,7 @@ button {
   width: 50%;
   margin-top: 3rem;
   margin-bottom: 3rem;
-  opacity: 90%;
+  opacity: 95%;
   border-radius: 10px;
 }
 
@@ -263,21 +267,23 @@ button {
 .contact {
   display: flex;
   flex-direction: column;
+  text-align: center;
   align-items: center;
-  justify-content: center;
-  /* height: 525px; */
+  height: 800px;
   width: 80%;
   animation: fadeIn 1.5s;
 }
 
 .contact p {
   width: 100%;
-  padding: 1rem;
+  padding: 2rem;
+
 }
 
 .contact img {
-  max-height: 420px;
-  padding: 1rem;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
   opacity: 95%;
 }
 
